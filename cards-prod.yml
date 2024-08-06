@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to EazyBank cards related Prod APIs"
+  contactDetails:
+    name: "Sandra Jane - Product Lead"
+    email: "jane@eazybank.com"
+  onCallSupport:
+    - (312) 333-6543
+    - (765) 453-5532

@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to EazyBank cards related QA APIs"
+  contactDetails:
+    name: "Charles Joe - QA Lead"
+    email: "joe@eazybank.com"
+  onCallSupport:
+    - (323) 332-4444
+    - (432) 433-5667

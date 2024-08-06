@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related Prod APIs "
+  contactDetails:
+    name: "Richard Iwo - Product Lead"
+    email: "richard@eazybank.com"
+  onCallSupport:
+    - (678) 553-4532
+    - (632) 433-5433
